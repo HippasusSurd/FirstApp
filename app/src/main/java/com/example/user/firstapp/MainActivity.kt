@@ -30,6 +30,8 @@ class MainActivity : AppCompatActivity() {
 
             txtFood.text = nextItem
         }
+
+
     }
 
     fun randomItem() : String {

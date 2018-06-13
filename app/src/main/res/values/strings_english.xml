@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appTitle">Cool App</string>
+    <string name="btnDecide">Decide!</string>
+    <string name="btnAddFood">Add Food</string>
+    <string name="txtAddFoodHere">Add Food Here...</string>
+    <string name="pressToDecide">Press to decide!</string>
+</resources>
